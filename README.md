@@ -43,6 +43,71 @@ Bijli Bachat was designed to solve this problem by enabling:
 - Interactive JavaFX user interface
 
 ---
+## Application Screenshots
+
+### Login Interface
+
+![Login Page](screenshots/login-page.png)
+
+---
+
+### Registration Interface
+
+![Register Page](screenshots/register-page.png)
+
+---
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard-overview.png)
+
+---
+
+### Meter Reading Module
+
+![Meter Reading](screenshots/meter-reading-module.png)
+
+---
+
+### Billing & History
+
+![Billing](screenshots/billing-history.png)
+
+---
+
+### Appliance Tracking System
+
+![Appliances](screenshots/appliance-tracking.png)
+
+---
+
+### Monthly Ceiling Management
+
+![Monthly Ceiling](screenshots/monthly-ceiling.png)
+
+---
+
+### Consumption Reports
+
+![Reports](screenshots/reports-module.png)
+
+---
+
+### Tariff Management System
+
+![Tariff Rates](screenshots/tariff-management.png)
+
+---
+
+### Solar Net Metering
+
+![Solar Net Metering](screenshots/solar-net-metering.png)
+
+---
+
+### Account & Settings Management
+
+![Settings](screenshots/settings-page.png)
 
 ## Architecture & Design
 
@@ -73,7 +138,7 @@ The system follows a layered architecture model to improve scalability, maintain
 
 ---
 
-## Software Engineering Concepts Applied
+## Software Design and Analysis Concepts Applied
 
 - Requirement Engineering
 - Layered Architecture
