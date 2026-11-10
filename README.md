@@ -4,7 +4,7 @@
 
 Bijli Bachat is a scalable smart electricity management platform developed to help Pakistani households monitor, analyze, and optimize electricity consumption in real time. The system addresses the challenges of tier-based electricity billing by providing users with consumption analytics, bill estimation, tariff alerts, appliance-level monitoring, and solar net-metering support through an interactive and user-centric interface.
 
-The application was engineered using layered software architecture principles to ensure modularity, maintainability, and separation of concerns across business logic, data management, and user interface components.
+The application was engineered using layered software architecture principles to ensure modularity, maintainability, and separation of concerns across business logic, data management, and user interface components
 
 ---
 
